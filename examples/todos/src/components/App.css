@@ -1,0 +1,22 @@
+.app {
+  padding: 10px;
+  border: 2px dotted black;
+}
+
+.addtodo {
+  padding: 10px;
+  border: 2px solid coral;
+  margin: 5px;
+}
+
+.todolist {
+  padding: 10px;
+  border: 2px solid plum;
+  margin: 5px;
+}
+
+.footer {
+  padding: 10px;
+  border: 2px solid burlywood;
+  margin: 5px;
+}
